@@ -1,0 +1,31 @@
+{
+  "name": "blog_admin",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --mode dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ant-design": "^1.0.0",
+    "ant-design-vue": "^3.2.16",
+    "axios": "^1.7.3",
+    "dayjs": "^1.11.12",
+    "echarts": "^5.4.2",
+    "font-awesome": "^4.7.0",
+    "md-editor": "^0.1.0-a",
+    "md-editor-v3": "^4.2.2",
+    "naive-ui": "^2.34.4",
+    "pinia": "^2.0.32",
+    "vue": "^3.4.35",
+    "vue-router": "^4.1.6",
+    "vue3typed": "^0.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "sass": "^1.60.0",
+    "scss": "^0.2.4",
+    "vite": "^5.3.5"
+  }
+}
