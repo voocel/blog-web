@@ -5,7 +5,7 @@ export function createMenuApi(data){
 }
 
 export function updateMenuApi(id,data){
-    return HTTP.put("/api/menus/update/"+id,data)
+    return HTTP.put("/api/menu/update/"+id,data)
 }
 
 // 菜单详情

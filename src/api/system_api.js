@@ -6,7 +6,7 @@ export function getSiteInfoApi(){
 }
 
 export function updateSiteInfoApi(data){
-    return HTTP.put("/ohter/update_site_setting",data)
+    return HTTP.put("/api/ohter/update_site_setting",data)
 }
 
 
